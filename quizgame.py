@@ -3,7 +3,7 @@
 questions = ("How many elements are in the?: ", 
             "Which animal lays the largest eggs?: ",
             "What is the most abundant gas in Earth's atmosphere?: ",
-            "HOw many bones are in the human body?: ",
+            "How many bones are in the human body?: ",
             "Which planet in the solar system is the hottest?: ",)
 
 options = (("A. 116", "B. 117", "C. 118", "D. 119"),
